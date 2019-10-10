@@ -62,11 +62,4 @@ CONFIGURATION
 -------------------------------------------------------------------------------
 
 
-CREDITS:
- Gauravjeet Singh < gauravjeet007@gmail.com >
- D.O. username < gauravjeet_singh >
 
-Maintainer:
- Shamsher Alam < tech.shanu786@gmail.com >
- D.O. username < Shamsher_Alam >
--------------------------------------------------------------------------------
